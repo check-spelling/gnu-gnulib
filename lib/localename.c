@@ -1206,7 +1206,7 @@ gl_locale_name_canonicalize (char *name)
     { "Chinese",               "zh" },
     { "Chinese, Simplified",   "zh_CN" },
     { "Chinese, Traditional",  "zh_TW" },
-    { "Chinese, Tradtional",   "zh_TW" },
+    { "Chinese, Traditional",   "zh_TW" },
     { "Croatian",              "hr" },
     { "Czech",                 "cs" },
     { "Danish",                "da" },
